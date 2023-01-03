@@ -208,9 +208,6 @@ a.header-link:active::after {
   margin: 0 auto;
 }
 
-.hero-bacground {
-}
-
 .hero-wrap {
   display: flex;
   flex-direction: column;
@@ -446,6 +443,7 @@ a.header-link:active::after {
 .footer-link {
   /* flex-shrink: 0; */
 }
+
 .footer-link-header {
   margin-bottom: 16px;
   color: var(--white-color);
